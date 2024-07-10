@@ -5,5 +5,5 @@ b = int(arr[1])
 
 if a > b :
     print(a * b)
-elif a <= b :
+elif a < b :
     print( b % a)
